@@ -1,0 +1,26 @@
+.navbar{
+  margin-bottom: 100px;
+}
+.nav a{
+      color: white;
+      font-size: 1.5rem;
+      margin-right:30px;
+      text-decoration:none;
+      font-family: 'Pacifico', cursive;
+      font-weight: bold;
+}
+.nav a:hover{
+  text-decoration: none;
+  color: white;
+}
+.h{
+  color: white;
+  font-size: 40px;
+  text-shadow: 3.5px 3.5px 0 #fafafa;
+  font-family: 'Pacifico', cursive;
+  text-decoration: none;
+}
+.h>a:hover{
+  text-decoration: none;
+  color: #0077b6;
+}

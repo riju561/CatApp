@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url("https://static.tumblr.com/3029b4d9b205bad97eb210b3725bb329/xk2mmfq/5fWn3hnc3/tumblr_static_3119999-545079-abstract-light-blue-hand-drawn-pattern-waves-background-seamless-pattern-can-be-used-for-wallpaper-pattern-fills-web-page-background-surface-textures.jpg") repeat;
+  height: 100vh;
+  padding-top: 80px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
